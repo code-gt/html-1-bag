@@ -44,9 +44,9 @@ L'objectif de ce TP est de vous familiariser avec les concepts de base du dével
 
 - Le premier paragraphe doit être de couleur verte.
 - Le second paragraphe doit être en de couleur blanche sur fond gris et en gras.
-- Le premier sous-titre <h3> doit être de couleur violet.
-- Le premier élément de liste <ul> doit être de couleur verte.
-- Le premier élément de liste <ol> doit être de couleur violette et souligné.
+- Le premier sous-titre `<h3>` doit être de couleur violet.
+- Le premier élément de liste `<ul>` doit être de couleur verte.
+- Le premier élément de liste `<ol>` doit être de couleur violette et souligné.
 
 CRÉER VOTRE CODE DANS VOTRE PAGE CSS POUR APPLIQUER CES STYLES
 
